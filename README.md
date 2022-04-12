@@ -1,12 +1,4 @@
 # Hi, I'm Henrique 👋
 
 - 🔭 I'm currently working with API development
-- 📫 How to reach me:@henriquuesouzza
 - 🌱 I’m currently learning ionic and angular
-##
-
-<div align="center">
-  <a href="https://github.com/HenriquueSouzza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriquueSouzza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquueSouzza&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
