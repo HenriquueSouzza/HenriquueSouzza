@@ -13,14 +13,6 @@ Desenvolvedor Web & Mobile focado em sistemas empresariais, automação de proce
 
 ---
 
-## 📊 GitHub Stats
-
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriquueSouzza\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquueSouzza\&layout=compact\&theme=dark)
-
----
-
 ## ⚡ Sobre
 
 * Desenvolvimento de sistemas internos e administrativos
